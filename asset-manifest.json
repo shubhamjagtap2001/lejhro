@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lejhro/static/css/main.011f6ede.css",
+    "main.js": "/lejhro/static/js/main.683d5b3e.js",
+    "static/js/453.3d886274.chunk.js": "/lejhro/static/js/453.3d886274.chunk.js",
+    "static/media/ai_power.png": "/lejhro/static/media/ai_power.80a921f5c45bd9c0e1e6.png",
+    "static/media/ghost.png": "/lejhro/static/media/ghost.5ed766a18a2493c9966f.png",
+    "static/media/analytics_world.png": "/lejhro/static/media/analytics_world.1b6e540eac558069c180.png",
+    "static/media/LejhroIMG.png": "/lejhro/static/media/LejhroIMG.1fa5e655abb8a90195d2.png",
+    "static/media/decision.png": "/lejhro/static/media/decision.ab1154ae8758515c82ea.png",
+    "static/media/management.png": "/lejhro/static/media/management.07487ff9f9d08530e697.png",
+    "static/media/SERP.png": "/lejhro/static/media/SERP.daca5fc9336770e221b8.png",
+    "index.html": "/lejhro/index.html",
+    "main.011f6ede.css.map": "/lejhro/static/css/main.011f6ede.css.map",
+    "main.683d5b3e.js.map": "/lejhro/static/js/main.683d5b3e.js.map",
+    "453.3d886274.chunk.js.map": "/lejhro/static/js/453.3d886274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.011f6ede.css",
+    "static/js/main.683d5b3e.js"
+  ]
+}
