@@ -244,3 +244,21 @@ body {
   flex-wrap: wrap; 
 }
 
+@media (max-width: 900px) {
+  .content-wrapper {
+    grid-template-columns: 1fr;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+    padding: 12px 20px;
+  }
+
+  .breadcrumb {
+    margin: 15px 20px;
+  }
+
+  .blog-content {
+    padding: 20px;
+  }
+}
